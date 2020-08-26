@@ -1,3 +1,6 @@
+### DB example
+
+
 [
     {
         "title": "I have to ride my bike",
@@ -12,3 +15,6 @@
         "description": "trail running"
     }
 ]
+
+### before to run the app start mongodb service
+### to run the project exec in the console "npm run dev"
